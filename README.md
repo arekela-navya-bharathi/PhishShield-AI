@@ -32,8 +32,8 @@ A Random Forest classifier was trained on a labeled dataset of phishing and safe
 1. **Clone the repository**
 
 ```bash
-git clone[ https://github.com/yourusername/CyberSafe-URL-Guard.git](https://github.com/arekela-navya-bharathi/PhishShield-AI.git)
-cd CyberSafe-URL-Guard
+git clone https://github.com/arekela-navya-bharathi/PhishShield-AI.git
+cd PhishShield-AI
 
 
 ```
