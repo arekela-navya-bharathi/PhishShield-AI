@@ -42,8 +42,7 @@ cd CyberSafe-URL-Guard
 Make sure you have Python installed (preferably 3.7 or above).
 
 ```bash
-Copy
-Edit
+
 pip install -r requirements.txt
 
 ```
@@ -51,8 +50,6 @@ pip install -r requirements.txt
 3.Run the Streamlit app
 
 ```bash
-Copy
-Edit
 streamlit run app.py
 ```
 
